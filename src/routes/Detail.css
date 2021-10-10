@@ -1,0 +1,29 @@
+
+.movie-detail {
+    weight: 100vw;
+}
+
+.movie-detail-background img {
+    position: absolute;
+    opacity: 0.2;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+.movie-detail-header {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.movie-detail-header__img img {
+    width: 100px;
+    height: 140px;
+}
+
+.movie-detail-header-content {
+    
+}
